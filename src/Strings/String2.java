@@ -3,8 +3,7 @@ package Strings;
 import java.util.Scanner;
 
 public class String2 {
-//this is second program 2
-    //testing git working properly
+//this is second program
     public static String sortSentence(String s) {
 
     }
